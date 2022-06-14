@@ -109,3 +109,27 @@ Thanks to Khalis (@hantu08 on Telegram) for helping me doing some WebGrab+Plus s
 Channel count depends on if the TV provider adds channels.
 # Extras
 No information available for any of your channels? Change the XMLTV ID to CHN to display a "Channel Information Not Available" notice on your EPG guide.
+
+# What's Available in the guides
+| (Provider) | Astro MYTV Broadcasting Unifi TV | meWATCH Indonesia Astro MYTV Broadcasting 
+|--|--|--|--|--|
+| Channel Logos | ✓ | ✓ | ✓ (Not Transparent) | ✓ (RTM Klik sources are not transparent) |
+| Channel Guide Images | ✓ | - (Except Astro sources) | - | - |
+| Source | mewatch.sg | content.astro.com.my (Some channels uses same source as Astro) | Indonesia | rtmklik.gov.my / content.astro.com.my | AqFad2811 rtmklik.gov.my / content.astro.com.my / playtv.unifi.com.my
+| XMLTV EPG ID (tvg-id) | Channel Number ([See here for IDs for Astro GO Exclusive Channels](https://weareblahs.github.io/epg/misc/AGEC.md)) | Channel Name | [See Here](https://weareblahs.github.io/epg/misc/RTMK.md) | Channel Number Channel Number ([See here for IDs for Astro GO Exclusive Channels](https://weareblahs.github.io/epg/misc/AGEC.md)) | Channel Name | [See Here](https://weareblahs.github.io/epg/misc/RTMK.md) | Channel Number | ([See here for IDs for Astro GO Exclusive Channels](https://weareblahs.github.io/epg/misc/AGEC.md)) | Channel Name | [See Here](https://weareblahs.github.io/epg/misc/RTMK.md) | Channel Number Channel Number ([See here for IDs for Astro GO Exclusive Channels](https://weareblahs.github.io/epg/misc/AGEC.md)) | Channel Name | [See Here](https://weareblahs.github.io/epg/misc/RTMK.md) |
+| XMLTV Links | https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml | https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml | https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml | https://raw.githubusercontent.com/AqFad2811/epg/main/mytv.xml |
+| Guide Update Estimated Time | 56 minutes - 1 hours 30 minutes | 2 minutes - 10 minutes | 36 seconds - 2 minutes | 3 minutes - 4 minutes | 99 minutes - 9 minutes 
+| Additional Channel Information ( "-" means Title and Description only) | Categories, Program Rating, Credits, Episode Number | Episode Number | Episode Number, Category | Program Rating, Episode Number |
+Channel count depends on if the TV provider adds channels.
+# Extras
+No information available for any of your channels? Change the XMLTV ID to CHN to display a "Channel Information Not Available" notice on your EPG guide.
+
+EPG 
+https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml
+https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml
+https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml
+https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml
+https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml
+https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml
+https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml
+https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml
