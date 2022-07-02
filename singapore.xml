@@ -1,0 +1,1023 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Ch 5">
+    <display-name lang="en">Ch 5 (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Ch 8">
+    <display-name lang="en">Ch 8 (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Ch U">
+    <display-name lang="en">Ch U (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Suria">
+    <display-name lang="en">Suria (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Vasantham">
+    <display-name lang="en">Vasantham (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="CNA">
+    <display-name lang="en">CNA HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <programme start="20220302000000 +0800" stop="20220302003000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Charles tries to blackmail Ananya into giving their relationship a chance but it backfires badly. Syirah continues to experience dizzy spells. Celia and Julius consider adopting a child after bonding with Baby Dawn.</desc>
+  </programme>
+  <programme start="20220302003000 +0800" stop="20220302013000 +0800" channel="Ch 5">
+    <title lang="en">The Resident S2</title>
+    <desc lang="en">When a nasty flu season turns out to be masking a terribly infectious disease, Chastain must race to quarantine and diagnose infected patients. Devon and the others treat Sam, a love-sick patient with flu-like symptoms.</desc>
+  </programme>
+  <programme start="20220302013000 +0800" stop="20220302023000 +0800" channel="Ch 5">
+    <title lang="en">Seven Worlds One Planet</title>
+    <desc lang="en">From the colourful paradise of South America to the scorching heat of Africa, Seven Worlds: One Planet showcases the true character of each continent in turn and reveals just how it has shaped all life there. Be surprised by unexpected stories. Marvel at iconic landscapes. And be awestruck by spectacular wildlife.</desc>
+  </programme>
+  <programme start="20220302023000 +0800" stop="20220302033000 +0800" channel="Ch 5">
+    <title lang="en">Mata Mata S3</title>
+    <desc lang="en">The team investigates a robbery-gone-wrong that results in the death of an elderly landlady. Kiat and Joyce discover that their late parents had known each other in the past and continue exchanging letters.</desc>
+  </programme>
+  <programme start="20220302033000 +0800" stop="20220302040000 +0800" channel="Ch 5">
+    <title lang="en">Arts 21</title>
+    <desc lang="en">ARTS 21 is an arts magazine show focusing on the latest news and events on the culture scene.</desc>
+  </programme>
+  <programme start="20220302040000 +0800" stop="20220302043000 +0800" channel="Ch 5">
+    <title lang="en">Luke Nguyen's Food Trail</title>
+    <desc lang="en">Escaping the hustle and bustle of Sydney, Luke visits the Blue Mountains in New South Wales. Overlooking the majestic ranges, Luke cooks seared Lamb Cutlets with an Asian Salsa Verde, and meets up with his old friend Huong to have an Eastern high tea. Utilising the local produce, Luke cooks a pan seared Quail at Echoes Restaurant. He meets with the top chefs from the area and discovers their signature dishes.</desc>
+  </programme>
+  <programme start="20220302043000 +0800" stop="20220302050000 +0800" channel="Ch 5">
+    <title lang="en">Peter Kuruvita's Coastal Kitchen S1</title>
+    <desc lang="en">After bidding farewell to city life and moving to the Sunshine coast with his family, Chef and Restaurateur Peter Kuruvita is on a journey to uncover the region's best food producers and create seasonal dishes in his coastal kitchen.</desc>
+  </programme>
+  <programme start="20220302050000 +0800" stop="20220302053000 +0800" channel="Ch 5">
+    <title lang="en">Planet Action</title>
+    <desc lang="en">Planet Action is a fast-paced 25min evergreen finished series that brings you right to the edge of your seat. From cowboy shoot-outs, to exploding cars, bad-ass stunt scenes, fights in space, and roaring monsters, Planet Action takes you behind the scenes of the best action movies released. Each episode you'll get all the secrets straight from your favorite action heroes, get exclusive trivia and special reports from the most dangerous film sets.</desc>
+  </programme>
+  <programme start="20220302053000 +0800" stop="20220302060000 +0800" channel="Ch 5">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">Films &amp; Stars brings you the latest new movie releases and the biggest movie stars. Every week a perfect lineup of the hottest events from the big screen including Hollywood releases, interviews with actors and filmmakers, red carpet reports and everything else that's going on in Hollywood.</desc>
+  </programme>
+  <programme start="20220302060000 +0800" stop="20220302063000 +0800" channel="Ch 5">
+    <title lang="en">Magic Adventures: The Crystal of Dark</title>
+    <desc lang="en">A young princess Olivia is transported to many wondrous lands and along the way she teams up with allies. Together they embark on a dangerous quest to find 4 great wizards and 7 magic crystals that will help her stop the Dark wizard and save her parents, and they learn that real magic is having good virtues of courage, friendship, and cooperation.</desc>
+  </programme>
+  <programme start="20220302063000 +0800" stop="20220302070000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220302070000 +0800" stop="20220302073000 +0800" channel="Ch 5">
+    <title lang="en">Blaze And The Monster Machines S3</title>
+    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and maths.</desc>
+  </programme>
+  <programme start="20220302073000 +0800" stop="20220302080000 +0800" channel="Ch 5">
+    <title lang="en">Kingdom Force</title>
+    <desc lang="en">Kingdom Force follows the thrilling, fast-paced exploits of five mighty animal heroes as they serve and protect the citizens of five unique animal kingdoms. Led by the fearless wolf, Luka, this team has a carnivorous appetite for danger and thrills and there's no operation they can't pull off with the help of their giant rescue robot, Alpha-Mech. Whatever the problem, big or small, these heroes come together to work as one - Kingdom Force Unite!</desc>
+  </programme>
+  <programme start="20220302080000 +0800" stop="20220302083000 +0800" channel="Ch 5">
+    <title lang="en">Counting With Paula S5</title>
+    <desc lang="en">The children help Mr. Banana Tree with his new job as a traffic controller. But what if he becomes too good at his job? Find out what happens! What happens when Maurice and Redbeard switch roles? Will Maurice be a better pirate captain than Redbeard?</desc>
+  </programme>
+  <programme start="20220302083000 +0800" stop="20220302090000 +0800" channel="Ch 5">
+    <title lang="en">True And The Rainbow Kingdom</title>
+    <desc lang="en">The Rainbow King is making some Nummle Berry pies but his shipment of Nummle Berries goes missing, so it's up to Detectives True and Bartleby to track down the berry bandit.</desc>
+  </programme>
+  <programme start="20220302090000 +0800" stop="20220302093000 +0800" channel="Ch 5">
+    <title lang="en">Sesame Street S50</title>
+    <desc lang="en">Celebrity guests such as Misty Copeland, Terri, Bindi and Robert Irwin, Chrissy Teigen and Josh Gad appear in the latest season of Sesame Street.</desc>
+  </programme>
+  <programme start="20220302093000 +0800" stop="20220302100000 +0800" channel="Ch 5">
+    <title lang="en">Molang S4</title>
+    <desc lang="en">Molang and Piu Piu are friends who always have a great time together whatever they do.</desc>
+  </programme>
+  <programme start="20220302100000 +0800" stop="20220302103000 +0800" channel="Ch 5">
+    <title lang="en">Ollie And Friends S6</title>
+    <desc lang="en">Playing secret agents, the gang is on a mission to retrieve a 'special spy weapon'. Imp overhears this and takes their game for real. He covertly joins them on their mission and attempts to take their special spy weapon for himself. The Imp finds a magic rock that replicates things. He accidentally clones himself, resulting in a group of trouble-making Imps.</desc>
+  </programme>
+  <programme start="20220302103000 +0800" stop="20220302110000 +0800" channel="Ch 5">
+    <title lang="en">Nella the Princess Knight S2</title>
+    <desc lang="en">Follow the adventures of Nella, a brave princess who turns into a princess knight.</desc>
+  </programme>
+  <programme start="20220302110000 +0800" stop="20220302113000 +0800" channel="Ch 5">
+    <title lang="en">Blaze And The Monster Machines S3</title>
+    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and maths.</desc>
+  </programme>
+  <programme start="20220302113000 +0800" stop="20220302120000 +0800" channel="Ch 5">
+    <title lang="en">Kingdom Force</title>
+    <desc lang="en">Kingdom Force follows the thrilling, fast-paced exploits of five mighty animal heroes as they serve and protect the citizens of five unique animal kingdoms. Led by the fearless wolf, Luka, this team has a carnivorous appetite for danger and thrills and there's no operation they can't pull off with the help of their giant rescue robot, Alpha-Mech. Whatever the problem, big or small, these heroes come together to work as one - Kingdom Force Unite!</desc>
+  </programme>
+  <programme start="20220302120000 +0800" stop="20220302123000 +0800" channel="Ch 5">
+    <title lang="en">Luke Nguyen's Food Trail</title>
+    <desc lang="en">On the sunshine coast of Australia, Luke meets with a local fisherman to learn about where his produce comes from and they go out netting for Spanner Crabs. Inspired by his newfound knowledge of Spanner Crabs, Luke mixes a Spanner crab with pomelo salad. Then, with the executive chef at the Spirit House, Luke cooks grilled kingfish with a Thai influence.</desc>
+  </programme>
+  <programme start="20220302123000 +0800" stop="20220302130000 +0800" channel="Ch 5">
+    <title lang="en">Peter Kuruvita's Coastal Kitchen S1</title>
+    <desc lang="en">After bidding farewell to city life and moving to the Sunshine coast with his family, Chef and Restaurateur Peter Kuruvita is on a journey to uncover the region's best food producers and create seasonal dishes in his coastal kitchen.</desc>
+  </programme>
+  <programme start="20220302130000 +0800" stop="20220302133000 +0800" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune S38</title>
+    <desc lang="en">(Encore) This gameshow features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.</desc>
+  </programme>
+  <programme start="20220302133000 +0800" stop="20220302140000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Charles tries to blackmail Ananya into giving their relationship a chance but it backfires badly. Syirah continues to experience dizzy spells. Celia and Julius consider adopting a child after bonding with Baby Dawn.</desc>
+  </programme>
+  <programme start="20220302140000 +0800" stop="20220302143000 +0800" channel="Ch 5">
+    <title lang="en">Tanglin</title>
+    <desc lang="en">Michael blacks out in the bunk, he forces Eddie to keep it secret. Through Salmah, Hassan goes to see his grandson behind Sulaiman's back. Shruti has her first date with Shawn, but her happiness is short-lived when she gets her university application results letter.</desc>
+  </programme>
+  <programme start="20220302143000 +0800" stop="20220302150000 +0800" channel="Ch 5">
+    <title lang="en">The Strangest Weather On Earth S3</title>
+    <desc lang="en">Season 3 of the series explores the wild and wonderful world of the weirdest weather on earth with each episode featuring spectacular visuals, fascinating demonstrations and explanations as to what causes all of these strange occurrences.</desc>
+  </programme>
+  <programme start="20220302150000 +0800" stop="20220302153000 +0800" channel="Ch 5">
+    <title lang="en">Magic Adventures: The Crystal of Dark</title>
+    <desc lang="en">A young princess Olivia is transported to many wondrous lands and along the way she teams up with allies. Together they embark on a dangerous quest to find 4 great wizards and 7 magic crystals that will help her stop the Dark wizard and save her parents, and they learn that real magic is having good virtues of courage, friendship, and cooperation.</desc>
+  </programme>
+  <programme start="20220302153000 +0800" stop="20220302160000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220302160000 +0800" stop="20220302163000 +0800" channel="Ch 5">
+    <title lang="en">Inazuma Eleven Ares</title>
+    <desc lang="en">When an elite group of soccer players split up to join teams across the country, the group's forward joins an underdog team from a remote island to help it achieve victory in a youth tournament.</desc>
+  </programme>
+  <programme start="20220302163000 +0800" stop="20220302164500 +0800" channel="Ch 5">
+    <title lang="en">MeteoHeroes S1</title>
+    <desc lang="en">Fulmen, Nix, Nubes, Pluvia, Thermo and Ventum are six children who discover they have superpowers that involve weather phenomena. They also learn how they can use these to affect nature. Guided by CEM and the AI character Tempus they soon learn how to control their powers and use them wisely to solve small and big issues throughout our planet. On their way to becoming superheroes the kids will also face other dynamics that are typical of their age such as friendship, relations with elders etc.</desc>
+  </programme>
+  <programme start="20220302164500 +0800" stop="20220302170000 +0800" channel="Ch 5">
+    <title lang="en">MeteoHeroes S1</title>
+    <desc lang="en">Fulmen, Nix, Nubes, Pluvia, Thermo and Ventum are six children who discover they have superpowers that involve weather phenomena. They also learn how they can use these to affect nature. Guided by CEM and the AI character Tempus they soon learn how to control their powers and use them wisely to solve small and big issues throughout our planet. On their way to becoming superheroes the kids will also face other dynamics that are typical of their age such as friendship, relations with elders etc.</desc>
+  </programme>
+  <programme start="20220302170000 +0800" stop="20220302173000 +0800" channel="Ch 5">
+    <title lang="en">Miraculous: Tales of Ladybug &amp; Cat Noir S3</title>
+    <desc lang="en">Marinette and Adrien's relationship finally takes a cautious step forward, but Kagami -- and the future of Paris -- stand in their way.</desc>
+  </programme>
+  <programme start="20220302173000 +0800" stop="20220302180000 +0800" channel="Ch 5">
+    <title lang="en">Word Whiz S4</title>
+    <desc lang="en">Dr Slime is back with more slime and a new and improved slime lab! Contestants will have to beat Dr Slime by solving the word puzzles, otherwise they'll get slimed and be stuck in his game forever as a minion!</desc>
+  </programme>
+  <programme start="20220302180000 +0800" stop="20220302190000 +0800" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA S6</title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13. The sixth season returns with chefs Gordon Ramsay and Christina Tosi acting as the judges, along Joe Bastianich as the third judge.</desc>
+  </programme>
+  <programme start="20220302190000 +0800" stop="20220302193000 +0800" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune S39</title>
+    <desc lang="en">Hosted by Pat Sajak, this game show features 3 contestants who try to solve a puzzle by spinning the wheel and guessing letters in a word or phrase.</desc>
+  </programme>
+  <programme start="20220302193000 +0800" stop="20220302200000 +0800" channel="Ch 5">
+    <title lang="en">Ninja Warrior</title>
+    <desc lang="en">A Japanese sports entertainment television series in which 100 competitors attempt to complete an obstacle course.</desc>
+  </programme>
+  <programme start="20220302200000 +0800" stop="20220302203000 +0800" channel="Ch 5">
+    <title lang="en">RenovAID S10</title>
+    <desc lang="en">Sathiya and his family are living in a hotel as their ageing flat goes through a much-needed renovation. With a four week timeline, can RenovAID build a safe and beautiful home for the family?</desc>
+  </programme>
+  <programme start="20220302203000 +0800" stop="20220302210000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Matthew discovers that Derek has given away a crucial piece of evidence to Jessica. Louis encourages Zara to be a writer after taking a peek into her journal. Syirah realises she has to re-examine her work and life priorities after being diagnosed with perimenopause.</desc>
+  </programme>
+  <programme start="20220302210000 +0800" stop="20220302214500 +0800" channel="Ch 5">
+    <title lang="en">News Tonight With Highlights From Parliament</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20220302214500 +0800" stop="20220302221500 +0800" channel="Ch 5">
+    <title lang="en">David Rocco's Dolce South East Asia</title>
+    <desc lang="en">David is in Kuala Lumpur, the capital city of Malaysia. KL has a long history of being the landing place for many different people - which has given itself a reputation of being a diverse and culturally open society with an incredible food scene. As with many regions around the world, Kuala Lumpur has seen a rise in the amount of refugees coming to the city, bringing with them many different perspectives and delicious cuisines.</desc>
+  </programme>
+  <programme start="20220302221500 +0800" stop="20220302231000 +0800" channel="Ch 5">
+    <title lang="en">Celebrity Family Feud</title>
+    <desc lang="en">The classic Family Feud format has entertained a generation, and this hilarious celebrity reboot sees Emmy-award winning talk show host Steve Harley at the helm, as your favourite celebrities and their families play the game, thinking on their feet and trying to second guess the general public.</desc>
+  </programme>
+  <programme start="20220302231000 +0800" stop="20220303000000 +0800" channel="Ch 5">
+    <title lang="en">Growing Wild</title>
+    <desc lang="en">What we grow, we eat; what we eat, we grow. The basic principle of growing edibles is brutally elegant: let nature do the work.</desc>
+  </programme>
+  <programme start="20220303000000 +0800" stop="20220303003000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Matthew discovers that Derek has given away a crucial piece of evidence to Jessica. Louis encourages Zara to be a writer after taking a peek into her journal. Syirah realises she has to re-examine her work and life priorities after being diagnosed with perimenopause.</desc>
+  </programme>
+  <programme start="20220303003000 +0800" stop="20220303010000 +0800" channel="Ch 5">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">(Encore) Singapore's goods and services tax, or GST, will be raised from 7% to 9% by 2024. How will it affect you? And are government support measures to cushion the impact of the hike, enough?</desc>
+  </programme>
+  <programme start="20220303010000 +0800" stop="20220303013000 +0800" channel="Ch 5">
+    <title lang="en">Ninja Warrior</title>
+    <desc lang="en">A Japanese sports entertainment television series in which 100 competitors attempt to complete an obstacle course.</desc>
+  </programme>
+  <programme start="20220303013000 +0800" stop="20220303023000 +0800" channel="Ch 5">
+    <title lang="en">Seven Worlds One Planet</title>
+    <desc lang="en">From the colourful paradise of South America to the scorching heat of Africa, Seven Worlds: One Planet showcases the true character of each continent in turn and reveals just how it has shaped all life there. Be surprised by unexpected stories. Marvel at iconic landscapes. And be awestruck by spectacular wildlife.</desc>
+  </programme>
+  <programme start="20220303023000 +0800" stop="20220303033000 +0800" channel="Ch 5">
+    <title lang="en">Mata Mata S3</title>
+    <desc lang="en">The team investigates a macabre case of a murder victim cooked in a pot of curry. Tommy is put in charge of the gang for the time being, while Eric and Dennis seek out new business opportunities overseas. Emily gets herself into trouble yet again, this time with potentially disastrous consequences.</desc>
+  </programme>
+  <programme start="20220303033000 +0800" stop="20220303040000 +0800" channel="Ch 5">
+    <title lang="en">The Strangest Weather On Earth S3</title>
+    <desc lang="en">Season 3 of the series explores the wild and wonderful world of the weirdest weather on earth with each episode featuring spectacular visuals, fascinating demonstrations and explanations as to what causes all of these strange occurrences.</desc>
+  </programme>
+  <programme start="20220303040000 +0800" stop="20220303043000 +0800" channel="Ch 5">
+    <title lang="en">Luke Nguyen's Food Trail</title>
+    <desc lang="en">On the sunshine coast of Australia, Luke meets with a local fisherman to learn about where his produce comes from and they go out netting for Spanner Crabs. Inspired by his newfound knowledge of Spanner Crabs, Luke mixes a Spanner crab with pomelo salad. Then, with the executive chef at the Spirit House, Luke cooks grilled kingfish with a Thai influence.</desc>
+  </programme>
+  <programme start="20220303043000 +0800" stop="20220303050000 +0800" channel="Ch 5">
+    <title lang="en">Peter Kuruvita's Coastal Kitchen S1</title>
+    <desc lang="en">After bidding farewell to city life and moving to the Sunshine coast with his family, Chef and Restaurateur Peter Kuruvita is on a journey to uncover the region's best food producers and create seasonal dishes in his coastal kitchen.</desc>
+  </programme>
+  <programme start="20220303050000 +0800" stop="20220303060000 +0800" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA S6</title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13. The sixth season returns with chefs Gordon Ramsay and Christina Tosi acting as the judges, along Joe Bastianich as the third judge.</desc>
+  </programme>
+  <programme start="20220303060000 +0800" stop="20220303063000 +0800" channel="Ch 5">
+    <title lang="en">Filly Funtasia</title>
+    <desc lang="en">Our heroine Rose and her Filly friends embark on fun exciting adventures as they start their school life at the Royal Magic Academy of Funtasia. They soon realise that their new magic skills will be of great use, as peril is near. Ages ago, during The Dark Battle, the evil Wranglum was absorbed by the Dark Mirror into a hidden Crystal Prison, which can only be unlocked by the Dark Crystal. Rose unknowingly holds the key and does not know how much danger she is in.</desc>
+  </programme>
+  <programme start="20220303063000 +0800" stop="20220303070000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220303070000 +0800" stop="20220303073000 +0800" channel="Ch 5">
+    <title lang="en">Blaze And The Monster Machines S3</title>
+    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and maths.</desc>
+  </programme>
+  <programme start="20220303073000 +0800" stop="20220303080000 +0800" channel="Ch 5">
+    <title lang="en">Kingdom Force</title>
+    <desc lang="en">Kingdom Force follows the thrilling, fast-paced exploits of five mighty animal heroes as they serve and protect the citizens of five unique animal kingdoms. Led by the fearless wolf, Luka, this team has a carnivorous appetite for danger and thrills and there's no operation they can't pull off with the help of their giant rescue robot, Alpha-Mech. Whatever the problem, big or small, these heroes come together to work as one - Kingdom Force Unite!</desc>
+  </programme>
+  <programme start="20220303080000 +0800" stop="20220303083000 +0800" channel="Ch 5">
+    <title lang="en">Counting With Paula S5</title>
+    <desc lang="en">Tim and Prince Aamil swap places for a day! What will the two boys learn as they spend their day walking in each other's shoes? Tim and Billy compete in a jungle car race. Paula helps both of them train. However, Tim is confident he'll be able to beat Billy without any training. Who will win the race?</desc>
+  </programme>
+  <programme start="20220303083000 +0800" stop="20220303090000 +0800" channel="Ch 5">
+    <title lang="en">True And The Rainbow Kingdom</title>
+    <desc lang="en">Envious of the attention True gets for her heroic deeds, Grizelda has her Grizmos build her a giant, Grizelda-shaped robot which goes haywire when Frookie takes control of it.</desc>
+  </programme>
+  <programme start="20220303090000 +0800" stop="20220303093000 +0800" channel="Ch 5">
+    <title lang="en">Sesame Street S50</title>
+    <desc lang="en">Celebrity guests such as Misty Copeland, Terri, Bindi and Robert Irwin, Chrissy Teigen and Josh Gad appear in the latest season of Sesame Street.</desc>
+  </programme>
+  <programme start="20220303093000 +0800" stop="20220303100000 +0800" channel="Ch 5">
+    <title lang="en">Molang S4</title>
+    <desc lang="en">Molang and Piu Piu are friends who always have a great time together whatever they do.</desc>
+  </programme>
+  <programme start="20220303100000 +0800" stop="20220303103000 +0800" channel="Ch 5">
+    <title lang="en">Ollie And Friends S6</title>
+    <desc lang="en">The annuals Ollipolis Bake Sale is back and Ollie, Cherry, and Sloppy have built a giant cupcake pyramid. However the untidiness of Sloppy and the Shifty Squares causes a swarm of ants to attack the whole bake sale, including their cupcake pyramid. The Monster Cactus is back and wreaks havoc on the town. The gang try to capture him but realise that he isn't as bad as he seems.</desc>
+  </programme>
+  <programme start="20220303103000 +0800" stop="20220303153000 +0800" channel="Ch 5">
+    <title lang="en">HSBC Women's World Championships 2022</title>
+    <desc lang="en">Boasting one of the strongest fields in women's golf outside of the five Major Championships, the HSBC Women's World Championship will see the top LPGA players battle it out on The Tanjong at Sentosa Golf Club. Taking place from the 3rd - 6th March 2022, the four-day extravaganza will be a platform to celebrate the sport of golf, the brilliant women competing in it and inspirational women from all facets of life throughout the World.</desc>
+  </programme>
+  <programme start="20220303153000 +0800" stop="20220303160000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220303160000 +0800" stop="20220303163000 +0800" channel="Ch 5">
+    <title lang="en">Inazuma Eleven Ares</title>
+    <desc lang="en">When an elite group of soccer players split up to join teams across the country, the group's forward joins an underdog team from a remote island to help it achieve victory in a youth tournament.</desc>
+  </programme>
+  <programme start="20220303163000 +0800" stop="20220303164500 +0800" channel="Ch 5">
+    <title lang="en">MeteoHeroes S1</title>
+    <desc lang="en">Fulmen, Nix, Nubes, Pluvia, Thermo and Ventum are six children who discover they have superpowers that involve weather phenomena. They also learn how they can use these to affect nature. Guided by CEM and the AI character Tempus they soon learn how to control their powers and use them wisely to solve small and big issues throughout our planet. On their way to becoming superheroes the kids will also face other dynamics that are typical of their age such as friendship, relations with elders etc.</desc>
+  </programme>
+  <programme start="20220303164500 +0800" stop="20220303170000 +0800" channel="Ch 5">
+    <title lang="en">MeteoHeroes S1</title>
+    <desc lang="en">Fulmen, Nix, Nubes, Pluvia, Thermo and Ventum are six children who discover they have superpowers that involve weather phenomena. They also learn how they can use these to affect nature. Guided by CEM and the AI character Tempus they soon learn how to control their powers and use them wisely to solve small and big issues throughout our planet. On their way to becoming superheroes the kids will also face other dynamics that are typical of their age such as friendship, relations with elders etc.</desc>
+  </programme>
+  <programme start="20220303170000 +0800" stop="20220303173000 +0800" channel="Ch 5">
+    <title lang="en">Miraculous: Tales of Ladybug &amp; Cat Noir S3</title>
+    <desc lang="en">Marinette and Adrien's relationship finally takes a cautious step forward, but Kagami -- and the future of Paris -- stand in their way.</desc>
+  </programme>
+  <programme start="20220303173000 +0800" stop="20220303180000 +0800" channel="Ch 5">
+    <title lang="en">Nick of Time</title>
+    <desc lang="en">When Anthony and his friends meet a supercool boy from the future named Nick, they learn about how terrible Singapore and the world will be in 2035 due to how we are treating our environment today. Together they improve the present.</desc>
+  </programme>
+  <programme start="20220303180000 +0800" stop="20220303190000 +0800" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA S6</title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13. The sixth season returns with chefs Gordon Ramsay and Christina Tosi acting as the judges, along Joe Bastianich as the third judge.</desc>
+  </programme>
+  <programme start="20220303190000 +0800" stop="20220303193000 +0800" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune S39</title>
+    <desc lang="en">Hosted by Pat Sajak, this game show features 3 contestants who try to solve a puzzle by spinning the wheel and guessing letters in a word or phrase.</desc>
+  </programme>
+  <programme start="20220303193000 +0800" stop="20220303203000 +0800" channel="Ch 5">
+    <title lang="en">America's Got Talent S16</title>
+    <desc lang="en">America's Got Talent returns with fresh new faces and familiar favorites, along with the excitement, thrills and feel-good performances that viewers have come to love each season. Amateur performers present their singing, dancing, comedy and novelty acts to celebrity judges and a nationwide audience in order to advance in the competition and win a huge prize.</desc>
+  </programme>
+  <programme start="20220303203000 +0800" stop="20220303210000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Adina begins to suspect that Zaryn is tampering with her medication. Shen Yang takes a break from his work so that Ella can make strides in hers. Derek considers telling Ah Yoke about his deal with Jessica.</desc>
+  </programme>
+  <programme start="20220303210000 +0800" stop="20220303214500 +0800" channel="Ch 5">
+    <title lang="en">News Tonight With Highlights From Parliament</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20220303214500 +0800" stop="20220303221500 +0800" channel="Ch 5">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">Product sizes have been shrinking over the years, even though prices remain the same. Steven Chia explores what's driving shrinking product sizes, and what we can do about it.</desc>
+  </programme>
+  <programme start="20220303221500 +0800" stop="20220303224500 +0800" channel="Ch 5">
+    <title lang="en">Future Proof</title>
+    <desc lang="en">Alan and Sofia return to 1965, where Sofia gets to meet her grandfather Yusof... and save his life. Meanwhile, Alan has to break Veronica's heart. Sofia's presence in the past sets off more unexpected events, causing a rift between best friends Seng Lee and Yusof, and a bad outcome for Yusof.</desc>
+  </programme>
+  <programme start="20220303224500 +0800" stop="20220303234000 +0800" channel="Ch 5">
+    <title lang="en">FBI: Most Wanted S2</title>
+    <desc lang="en">FBI: MOST WANTED is a high-stakes drama that focuses on the Fugitive Task Force, an elite unit that relentlessly pursues and captures the notorious criminals on the Bureau's Most Wanted list. Soon after a suspect escapes trial and goes on a murder spree, the fugitive task force partners with bail bondsperson Jackie Ward in order to track him down.</desc>
+  </programme>
+  <programme start="20220303234000 +0800" stop="20220303234000 +0800" channel="Ch 5">
+    <title lang="en">Heroes &amp; Survivors : Defying Death S2</title>
+    <desc lang="en">In these desperate situations, the heroic hand of a stranger may be the difference between life and death for someone. Sometimes, in these extreme situations, it can simply be the superhuman spirit that keeps a person alive. All of these stories of bravery, defiance and heroic acts come from people confronted with extreme and death-defying situations around the globe. From skiers buried alive in snow, to towns hit by a flash flood and unexpected tornadoes, these are tales of survival.</desc>
+  </programme>
+  <programme start="20220303234000 +0800" stop="20220304003000 +0800" channel="Ch 5">
+    <title lang="en">Heroes &amp; Survivors : Defying Death S2</title>
+    <desc lang="en">In these desperate situations, the heroic hand of a stranger may be the difference between life and death for someone. Sometimes, in these extreme situations, it can simply be the superhuman spirit that keeps a person alive. All of these stories of bravery, defiance and heroic acts come from people confronted with extreme and death-defying situations around the globe. From skiers buried alive in snow, to towns hit by a flash flood and unexpected tornadoes, these are tales of survival.</desc>
+  </programme>
+  <programme start="20220304003000 +0800" stop="20220304010000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Adina begins to suspect that Zaryn is tampering with her medication. Shen Yang takes a break from his work so that Ella can make strides in hers. Derek considers telling Ah Yoke about his deal with Jessica.</desc>
+  </programme>
+  <programme start="20220304010000 +0800" stop="20220304013000 +0800" channel="Ch 5">
+    <title lang="en">On The Red Dot - My Grandparents' Date</title>
+    <desc lang="en">(Encore) Grandparents Faridah and Rashid make up for lost time when their children and grandchildren plan a romantic day out for them. But will a rainstorm threaten to sink their picnic plans?</desc>
+  </programme>
+  <programme start="20220304013000 +0800" stop="20220304023000 +0800" channel="Ch 5">
+    <title lang="en">Seven Worlds One Planet</title>
+    <desc lang="en">From the colourful paradise of South America to the scorching heat of Africa, Seven Worlds: One Planet showcases the true character of each continent in turn and reveals just how it has shaped all life there. Be surprised by unexpected stories. Marvel at iconic landscapes. And be awestruck by spectacular wildlife.</desc>
+  </programme>
+  <programme start="20220304023000 +0800" stop="20220304033000 +0800" channel="Ch 5">
+    <title lang="en">FBI: Most Wanted S2</title>
+    <desc lang="en">FBI: MOST WANTED is a high-stakes drama that focuses on the Fugitive Task Force, an elite unit that relentlessly pursues and captures the notorious criminals on the Bureau's Most Wanted list. Soon after a suspect escapes trial and goes on a murder spree, the fugitive task force partners with bail bondsperson Jackie Ward in order to track him down.</desc>
+  </programme>
+  <programme start="20220304033000 +0800" stop="20220304040000 +0800" channel="Ch 5">
+    <title lang="en">The Strangest Weather On Earth S3</title>
+    <desc lang="en">Season 3 of the series explores the wild and wonderful world of the weirdest weather on earth with each episode featuring spectacular visuals, fascinating demonstrations and explanations as to what causes all of these strange occurrences.</desc>
+  </programme>
+  <programme start="20220304040000 +0800" stop="20220304050000 +0800" channel="Ch 5">
+    <title lang="en">72 Dangerous Animals Australia</title>
+    <desc lang="en">Australia is full of dangerous animals but which creature is our country's deadliest? From the Freshwater Crocodile to the Cane Toad, were counting down to the most dangerous Aussie animal.</desc>
+  </programme>
+  <programme start="20220304050000 +0800" stop="20220304060000 +0800" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA S6</title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13. The sixth season returns with chefs Gordon Ramsay and Christina Tosi acting as the judges, along Joe Bastianich as the third judge.</desc>
+  </programme>
+  <programme start="20220304060000 +0800" stop="20220304063000 +0800" channel="Ch 5">
+    <title lang="en">Filly Funtasia</title>
+    <desc lang="en">Our heroine Rose and her Filly friends embark on fun exciting adventures as they start their school life at the Royal Magic Academy of Funtasia. They soon realise that their new magic skills will be of great use, as peril is near. Ages ago, during The Dark Battle, the evil Wranglum was absorbed by the Dark Mirror into a hidden Crystal Prison, which can only be unlocked by the Dark Crystal. Rose unknowingly holds the key and does not know how much danger she is in.</desc>
+  </programme>
+  <programme start="20220304063000 +0800" stop="20220304070000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220304070000 +0800" stop="20220304073000 +0800" channel="Ch 5">
+    <title lang="en">Blaze And The Monster Machines S3</title>
+    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and maths.</desc>
+  </programme>
+  <programme start="20220304073000 +0800" stop="20220304080000 +0800" channel="Ch 5">
+    <title lang="en">Kingdom Force</title>
+    <desc lang="en">Kingdom Force follows the thrilling, fast-paced exploits of five mighty animal heroes as they serve and protect the citizens of five unique animal kingdoms. Led by the fearless wolf, Luka, this team has a carnivorous appetite for danger and thrills and there's no operation they can't pull off with the help of their giant rescue robot, Alpha-Mech. Whatever the problem, big or small, these heroes come together to work as one - Kingdom Force Unite!</desc>
+  </programme>
+  <programme start="20220304080000 +0800" stop="20220304083000 +0800" channel="Ch 5">
+    <title lang="en">Counting With Paula S5</title>
+    <desc lang="en">Prince Aamil invites the children over to the Palace for a sleepover. No one wants to waste the night actually sleeping. The children plan all sorts of fun activities to keep awake, while trying to avoid getting caught by Mr. Guard. The children form a rock band and they're invited to play their first gig at the Jungle Rock Concert. But they run into some monkey trouble along the way. What will the children do to ensure they don't miss their chance to perform?</desc>
+  </programme>
+  <programme start="20220304083000 +0800" stop="20220304090000 +0800" channel="Ch 5">
+    <title lang="en">True And The Rainbow Kingdom</title>
+    <desc lang="en">True must save the Fundawunda Festival from falling into adorable chaos as a cute baby chick's magical kiss transforms fairgoers into baby chicks themselves.</desc>
+  </programme>
+  <programme start="20220304090000 +0800" stop="20220304093000 +0800" channel="Ch 5">
+    <title lang="en">Sesame Street S50</title>
+    <desc lang="en">Celebrity guests such as Misty Copeland, Terri, Bindi and Robert Irwin, Chrissy Teigen and Josh Gad appear in the latest season of Sesame Street.</desc>
+  </programme>
+  <programme start="20220304093000 +0800" stop="20220304100000 +0800" channel="Ch 5">
+    <title lang="en">Molang S4</title>
+    <desc lang="en">Molang and Piu Piu are friends who always have a great time together whatever they do.</desc>
+  </programme>
+  <programme start="20220304100000 +0800" stop="20220304103000 +0800" channel="Ch 5">
+    <title lang="en">Ollie And Friends S6</title>
+    <desc lang="en">It's the clash of the scooters when Sloppy tries to make his scooter better than Cherry's. But he learns his lesson when his powerful scooter goes out of control. Ollipollis holds its first Grand Prix bicycle race, but Ollie doesn't know how to ride a bike. While he endeavours to learn with the help of his friends, a sneaky Imp tries to sabotage him.</desc>
+  </programme>
+  <programme start="20220304103000 +0800" stop="20220304153000 +0800" channel="Ch 5">
+    <title lang="en">HSBC Women's World Championships 2022</title>
+    <desc lang="en">Boasting one of the strongest fields in women's golf outside of the five Major Championships, the HSBC Women's World Championship will see the top LPGA players battle it out on The Tanjong at Sentosa Golf Club. Taking place from the 3rd - 6th March 2022, the four-day extravaganza will be a platform to celebrate the sport of golf, the brilliant women competing in it and inspirational women from all facets of life throughout the World.</desc>
+  </programme>
+  <programme start="20220304153000 +0800" stop="20220304160000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220304160000 +0800" stop="20220304163000 +0800" channel="Ch 5">
+    <title lang="en">Inazuma Eleven Ares</title>
+    <desc lang="en">When an elite group of soccer players split up to join teams across the country, the group's forward joins an underdog team from a remote island to help it achieve victory in a youth tournament.</desc>
+  </programme>
+  <programme start="20220304163000 +0800" stop="20220304170000 +0800" channel="Ch 5">
+    <title lang="en">LEGO City Adventures S3</title>
+    <desc lang="en">Billy and Maddy join a kid's citywide obstacle course with the help of the stunt team.</desc>
+  </programme>
+  <programme start="20220304170000 +0800" stop="20220304173000 +0800" channel="Ch 5">
+    <title lang="en">LEGO Ninjago S2 - Dungeons Of Shintaru</title>
+    <desc lang="en">As the Ninjas enter the Dungeons in the mythical Kingdom of Shintaru, they find themselves trapped in the deep. Who are the good guys and who are the bad guys in this crazy subterranean conflict?</desc>
+  </programme>
+  <programme start="20220304173000 +0800" stop="20220304180000 +0800" channel="Ch 5">
+    <title lang="en">Busy Bodies</title>
+    <desc lang="en">It's time to get icky and wet as the Busy Bodies explore the role of BLOOD! Meet the terrifying bloodsuckers in our midst! Find out why our bodies and other living things need this special liquid to survive! Try our experiments to create some frightening fluids! Then, when an accident happens - Aidan and Evie learn quick life-saving skills when it comes to treating cuts and wounds.</desc>
+  </programme>
+  <programme start="20220304180000 +0800" stop="20220304183000 +0800" channel="Ch 5">
+    <title lang="en">Chris Humfrey's Animal Instinct</title>
+    <desc lang="en">Chris starts the day with some shaving tips from good friend, Trevor the water dragon. At Koala HQ, we check in on the health of Matilda the koala's tiny joey. Then it's off on a quick road trip to Adelaide to collect the newest members of Chris' animal family, wombats Harry and Hector. Along the way Chris stops at a favourite childhood holiday spot.... nothing has changed during the years, as he's still on the search for a Black Rock Skink.</desc>
+  </programme>
+  <programme start="20220304183000 +0800" stop="20220304203000 +0800" channel="Ch 5">
+    <title lang="en">White Snake</title>
+    <desc lang="en">A love story between a snake spirit and a snake hunter. The story follows the Chinese fable the Legend of the White Snake. The focus is on a white snake-demon Blanca who loses her memory while being disguised as a human woman and falls in love with a snake hunter. This strongly displeases her young sister, Verta, the green snake-demon.</desc>
+  </programme>
+  <programme start="20220304203000 +0800" stop="20220304210000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">James and Ananya wonder what Charles is up to when he drops the investigation into the Vietnam project. Ah Yoke thinks there is something off with Emily, while a paranoid Adina makes a big scene at Fresh Start Collab.</desc>
+  </programme>
+  <programme start="20220304210000 +0800" stop="20220304214500 +0800" channel="Ch 5">
+    <title lang="en">News Tonight With Highlights From Parliament</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20220304214500 +0800" stop="20220304221500 +0800" channel="Ch 5">
+    <title lang="en">On The Red Dot - In The Event</title>
+    <desc lang="en">Postponed twice, the AFF Suzuki Cup is finally kicking off in Singapore. With 600 athletes and officials from flying in from 9 ASEAN countries and 10,000 fans at the stadium, can COVID be kept at bay?</desc>
+  </programme>
+  <programme start="20220304221500 +0800" stop="20220304221500 +0800" channel="Ch 5">
+    <title lang="en">Searching</title>
+    <desc lang="en">After his teenage daughter goes missing, a desperate father tries to find clues on her laptop.</desc>
+  </programme>
+  <programme start="20220304221500 +0800" stop="20220305001500 +0800" channel="Ch 5">
+    <title lang="en">Searching</title>
+    <desc lang="en">After his teenage daughter goes missing, a desperate father tries to find clues on her laptop.</desc>
+  </programme>
+  <programme start="20220305001500 +0800" stop="20220305004500 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">James and Ananya wonder what Charles is up to when he drops the investigation into the Vietnam project. Ah Yoke thinks there is something off with Emily, while a paranoid Adina makes a big scene at Fresh Start Collab.</desc>
+  </programme>
+  <programme start="20220305004500 +0800" stop="20220305014000 +0800" channel="Ch 5">
+    <title lang="en">SupermodelMe Revolution</title>
+    <desc lang="en">The 7 models show off their fancy footwork in a K-Pop dance-off, and shed all inhibitions in an au naturel photoshoot. Testing limits and breaking spirits, one model leaves on a weak surrender. With 7 models left, the fight for supermodel stardom turns to its most savage, as they showcase their quick footwork and fanworthy moves in a K-Pop dance off, and shed off their inhibitions for a bare beauty photoshoot that co-stars slimy beasts. Testing limits and breaking spirits.</desc>
+  </programme>
+  <programme start="20220305014000 +0800" stop="20220305023000 +0800" channel="Ch 5">
+    <title lang="en">The Titan Games</title>
+    <desc lang="en">Dwayne Johnson presents and stars in "The Titan Games," a groundbreaking new athletic competition based on Dwayne's belief that within each and every one of us is the potential for greatness.</desc>
+  </programme>
+  <programme start="20220305023000 +0800" stop="20220305030000 +0800" channel="Ch 5">
+    <title lang="en">Planet Action</title>
+    <desc lang="en">Planet Action is a fast-paced 25min evergreen finished series that brings you right to the edge of your seat. From cowboy shoot-outs, to exploding cars, bad-ass stunt scenes, fights in space, and roaring monsters, Planet Action takes you behind the scenes of the best action movies released. Each episode you'll get all the secrets straight from your favorite action heroes, get exclusive trivia and special reports from the most dangerous film sets.</desc>
+  </programme>
+  <programme start="20220305030000 +0800" stop="20220305033000 +0800" channel="Ch 5">
+    <title lang="en">Arts 21</title>
+    <desc lang="en">ARTS 21 is an arts magazine show focusing on the latest news and events on the culture scene.</desc>
+  </programme>
+  <programme start="20220305033000 +0800" stop="20220305040000 +0800" channel="Ch 5">
+    <title lang="en">Euromaxx</title>
+    <desc lang="en">Euromaxx is a lifestyle magazine show which features images and stories that reflect the rich diversity of cultural life in Europe. It also provides an insight into Europe and the people who live there.</desc>
+  </programme>
+  <programme start="20220305040000 +0800" stop="20220305050000 +0800" channel="Ch 5">
+    <title lang="en">72 Dangerous Animals Australia</title>
+    <desc lang="en">Australia is full of dangerous animals but which creature is our country's deadliest? From the Freshwater Crocodile to the Cane Toad, were counting down to the most dangerous Aussie animal.</desc>
+  </programme>
+  <programme start="20220305050000 +0800" stop="20220305053000 +0800" channel="Ch 5">
+    <title lang="en">Chris Humfrey's Animal Instinct</title>
+    <desc lang="en">Chris starts the day with some shaving tips from good friend, Trevor the water dragon. At Koala HQ, we check in on the health of Matilda the koala's tiny joey. Then it's off on a quick road trip to Adelaide to collect the newest members of Chris' animal family, wombats Harry and Hector. Along the way Chris stops at a favourite childhood holiday spot.... nothing has changed during the years, as he's still on the search for a Black Rock Skink.</desc>
+  </programme>
+  <programme start="20220305053000 +0800" stop="20220305060000 +0800" channel="Ch 5">
+    <title lang="en">The World's Deadliest Weather S2</title>
+    <desc lang="en">Revealing archives and real footages of the meteorological phenomena, witness some of the most deadly natural disasters the planet has ever seen.</desc>
+  </programme>
+  <programme start="20220305060000 +0800" stop="20220305063000 +0800" channel="Ch 5">
+    <title lang="en">Sunshine Station</title>
+    <desc lang="en">Jimmy and Jenny run a very special bus station - the Sunshine Station! It isn't just a place you go to get to a destination. It is a destination in itself - a destination of endless fun, songs, dances, discovery and wonders! At the Sunshine Station, pre-schoolers embark on a learning journey to discover the world around them by going to various interesting locations around Singapore.</desc>
+  </programme>
+  <programme start="20220305063000 +0800" stop="20220305070000 +0800" channel="Ch 5">
+    <title lang="en">Hiccup &amp; Sneeze</title>
+    <desc lang="en">Hiccup and Sneeze teach Bibi how to celebrate the Monster Spring Festival, where red is the official festival colour. They sing monster songs, make monster snacks and dance the monster friendship dance.</desc>
+  </programme>
+  <programme start="20220305070000 +0800" stop="20220305073000 +0800" channel="Ch 5">
+    <title lang="en">Tumble Leaf S2</title>
+    <desc lang="en">Tumble Leaf is set in a whimsical land where a small blue fox named Fig plays each day and discovers adventure, friendship and love around every bend in the path.</desc>
+  </programme>
+  <programme start="20220305073000 +0800" stop="20220305080000 +0800" channel="Ch 5">
+    <title lang="en">Pikwik Pack</title>
+    <desc lang="en">At the Taco Truck, the Bison Brothers are flustered. They can't seem to find what they need to make burritos for their hungry customers. The Pikwik Pack rush to help! It's Hazel's Birthday! Benny has everything perfectly planned for her surprise party ... but he forgot to invite her friends! In all her excitement, Hazel forgets something important too. Luckily, the Pikwik Pack delivers the perfect package to help Benny, and give Hazel the best birthday party ever!</desc>
+  </programme>
+  <programme start="20220305080000 +0800" stop="20220305083000 +0800" channel="Ch 5">
+    <title lang="en">Tayo The Little Bus S5</title>
+    <desc lang="en">Tayo and Gani become fire engines. Have you ever imagined our little buses become fire trucks? Anyhow, they thought they would do an amazing job but putting down fire in emergency situations isn't easy!</desc>
+  </programme>
+  <programme start="20220305083000 +0800" stop="20220305090000 +0800" channel="Ch 5">
+    <title lang="en">Counting With Paula S6</title>
+    <desc lang="en">The children head over to the Jungle to help the totem heads find the world's most delicious banana. Tim, Calc and Buddy decide to talk a shortcut, while Paula and the others stick to the route on the map. However, something unexpected awaits all of them when they finally find the banana.</desc>
+  </programme>
+  <programme start="20220305090000 +0800" stop="20220305093000 +0800" channel="Ch 5">
+    <title lang="en">My Little Pony: Friendship Is Magic S9</title>
+    <desc lang="en">This series follows a pony named Twilight Sparkle as she learns about friendship in the town of Ponyville with her friends. The ponies share adventures and help other residents of Ponyville, while working out the troublesome moments in their own friendship.</desc>
+  </programme>
+  <programme start="20220305093000 +0800" stop="20220305100000 +0800" channel="Ch 5">
+    <title lang="en">PJ Masks S3</title>
+    <desc lang="en">Join Catboy, Owlette and Gekko as the heroic trio goes into the night to save the day!</desc>
+  </programme>
+  <programme start="20220305100000 +0800" stop="20220305103000 +0800" channel="Ch 5">
+    <title lang="en">Word Whiz S4</title>
+    <desc lang="en">Dr Slime is back with more slime and a new and improved slime lab! Contestants will have to beat Dr Slime by solving the word puzzles, otherwise they'll get slimed and be stuck in his game forever as a minion!</desc>
+  </programme>
+  <programme start="20220305103000 +0800" stop="20220305153000 +0800" channel="Ch 5">
+    <title lang="en">HSBC Women's World Championships 2022</title>
+    <desc lang="en">Boasting one of the strongest fields in women's golf outside of the five Major Championships, the HSBC Women's World Championship will see the top LPGA players battle it out on The Tanjong at Sentosa Golf Club. Taking place from the 3rd - 6th March 2022, the four-day extravaganza will be a platform to celebrate the sport of golf, the brilliant women competing in it and inspirational women from all facets of life throughout the World.</desc>
+  </programme>
+  <programme start="20220305153000 +0800" stop="20220305171500 +0800" channel="Ch 5">
+    <title lang="en">Scooby-Doo! And The Gourmet Ghost</title>
+    <desc lang="en">Your favorite teen sleuths go on an unforgettable adventure to New England, where they investigate the haunting of a historic colonial inn that's been turned into a state-of-the-art, culinary resort.</desc>
+  </programme>
+  <programme start="20220305171500 +0800" stop="20220305173000 +0800" channel="Ch 5">
+    <title lang="en">Angry Birds</title>
+    <desc lang="en">The animation series sees our birdy protagonists battling against the long-suffering Piggies in an engaging world full of surprises!</desc>
+  </programme>
+  <programme start="20220305173000 +0800" stop="20220305180000 +0800" channel="Ch 5">
+    <title lang="en">Brain Juice</title>
+    <desc lang="en">Brain Juice is a roving Quiz Game Show that goes from school to school to settle once and for all who is the smartest kid in class.</desc>
+  </programme>
+  <programme start="20220305180000 +0800" stop="20220305181000 +0800" channel="Ch 5">
+    <title lang="en">Just for Laughs Gags S21</title>
+    <desc lang="en">Just For Laughs will tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
+  </programme>
+  <programme start="20220305181000 +0800" stop="20220305210000 +0800" channel="Ch 5">
+    <title lang="en">Transformers</title>
+    <desc lang="en">An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.</desc>
+  </programme>
+  <programme start="20220305210000 +0800" stop="20220305213000 +0800" channel="Ch 5">
+    <title lang="en">News Tonight</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20220305213000 +0800" stop="20220305220000 +0800" channel="Ch 5">
+    <title lang="en">The World's Deadliest Weather S4</title>
+    <desc lang="en">Nature is a tempestuous beast, capable of destruction on a level so devastating and claimed the lives of millions. In recent years, these extreme weather events have become more and more commonplace. Using incredible archive and astonishing user-generated footage of some of the most extraordinary weather the planet has ever seen, we'll relive these weather spectacles in astonishing minute by minute detail, revealing very personal stories of people who have captured the entire event on camera.</desc>
+  </programme>
+  <programme start="20220305220000 +0800" stop="20220306000000 +0800" channel="Ch 5">
+    <title lang="en">Megalodon</title>
+    <desc lang="en">A military vessel on the search for an unidentified submersible finds themselves face to face with a giant shark, forced to use only what they have on board to defend themselves from the monstrous beast.</desc>
+  </programme>
+  <programme start="20220306000000 +0800" stop="20220306003000 +0800" channel="Ch 5">
+    <title lang="en">Incredible Tales S7</title>
+    <desc lang="en">A newlywed couple, go to Vietnam for their honeymoon. They bring back an unusual souvenir from their vacation. A souvenir that was meant, not only to be a souvenir' but a purchase that was made, to also support an art form. However, this intriguing souvenir turns into a total nightmare. The souvenir not only occupies a decorative spot in the house but intrudes into the young couple's marriage. Strange things begin to happen, affecting both the husband and the wife.</desc>
+  </programme>
+  <programme start="20220306003000 +0800" stop="20220306012000 +0800" channel="Ch 5">
+    <title lang="en">Nancy Drew</title>
+    <desc lang="en">When Nancy finds herself stuck in an alternate reality the Drew Crew desperately searches for a way to bring her back.</desc>
+  </programme>
+  <programme start="20220306012000 +0800" stop="20220306015000 +0800" channel="Ch 5">
+    <title lang="en">72 Cutest Animals</title>
+    <desc lang="en">Visually stunning and packed with scientific facts, this is a countdown and investigation into the cutest animals in the world. Animal lovers and experts assess each creature and rank them on a sliding scale to eventually uncover the cutest one in the world.</desc>
+  </programme>
+  <programme start="20220306015000 +0800" stop="20220306025500 +0800" channel="Ch 5">
+    <title lang="en">Sharks: The Big Five</title>
+    <desc lang="en">The ocean has its own Big Five. Featuring great whites, to hammerheads, tigers, bulls and the intimidating whale shark, this is the ultimate shark show. Delve deep into the African waters and discover a new side of these prehistoric predators of the sea, while reconsidering the Hollywood portrayal which has done much to damage the reputation of these gentle creatures.</desc>
+  </programme>
+  <programme start="20220306025500 +0800" stop="20220306040000 +0800" channel="Ch 5">
+    <title lang="en">Emerald Islands Of Malaysia</title>
+    <desc lang="en">The islands of Malaysia are jewels of the natural world, ecological paradises where ancient rainforests cascade down mountains into crystal clear seas. Each is a haven for wildlife, each boasts its own wildlife story. The episode features a number of enigmatic species both above and below the water. From silvered langurs caring for their bright orange babies and ants tending their herds of mealy bugs to boisterous mudskippers and a noisy fruit bat roost.</desc>
+  </programme>
+  <programme start="20220306040000 +0800" stop="20220306050000 +0800" channel="Ch 5">
+    <title lang="en">Deal Or No Deal USA S5</title>
+    <desc lang="en">One of America's most popular and beloved game shows, "Deal or No Deal", is back with it iconic host Howie Mandel.</desc>
+  </programme>
+  <programme start="20220306050000 +0800" stop="20220306060000 +0800" channel="Ch 5">
+    <title lang="en">72 Dangerous Animals Australia</title>
+    <desc lang="en">Australia is full of dangerous animals but which creature is our country's deadliest? From the Freshwater Crocodile to the Cane Toad, were counting down to the most dangerous Aussie animal.</desc>
+  </programme>
+  <programme start="20220306060000 +0800" stop="20220306063000 +0800" channel="Ch 5">
+    <title lang="en">Sunshine Station</title>
+    <desc lang="en">Jimmy and Jenny run a very special bus station - the Sunshine Station! It isn't just a place you go to get to a destination. It is a destination in itself - a destination of endless fun, songs, dances, discovery and wonders! At the Sunshine Station, pre-schoolers embark on a learning journey to discover the world around them by going to various interesting locations around Singapore.</desc>
+  </programme>
+  <programme start="20220306063000 +0800" stop="20220306070000 +0800" channel="Ch 5">
+    <title lang="en">Hiccup &amp; Sneeze</title>
+    <desc lang="en">Unaware that Hiccup and Sneeze are planning a surprise party for her, Bibi thinks that they've forgotten her birthday, and tells them that she's feeling blue. They misunderstand this, thinking that she wants to have a blue-themed party.</desc>
+  </programme>
+  <programme start="20220306070000 +0800" stop="20220306073000 +0800" channel="Ch 5">
+    <title lang="en">Tumble Leaf S2</title>
+    <desc lang="en">Tumble Leaf is set in a whimsical land where a small blue fox named Fig plays each day and discovers adventure, friendship and love around every bend in the path.</desc>
+  </programme>
+  <programme start="20220306073000 +0800" stop="20220306080000 +0800" channel="Ch 5">
+    <title lang="en">Pikwik Pack</title>
+    <desc lang="en">Oh no! Wally's iceberg keeps getting pushed along by the ocean current. How does the Pikwik Pack plan to deliver him his package if his iceberg keeps moving? It's moving day, and Henrietta is sad to say goodbye to Chipper. If only they had a way to remember all their good times together! Working together to deliver the perfect package, the Pikwik Pack proves that goodbyes aren't forever.</desc>
+  </programme>
+  <programme start="20220306080000 +0800" stop="20220306083000 +0800" channel="Ch 5">
+    <title lang="en">Tayo The Little Bus S5</title>
+    <desc lang="en">Peanut gets to take passenger Hans, who's the cellist. Hans accidentally forgets his cello on Peanut's bus so Peanut tries to find Hans to give his cello back. But, what's Hans is afraid of?</desc>
+  </programme>
+  <programme start="20220306083000 +0800" stop="20220306090000 +0800" channel="Ch 5">
+    <title lang="en">Counting With Paula S6</title>
+    <desc lang="en">Using the power of an ancient statue, Mr Explorer manages to control the monkeys to do his bidding. The children have to find the potion to destroy the artifact, while protecting the talking totem heads from being captured.</desc>
+  </programme>
+  <programme start="20220306090000 +0800" stop="20220306091500 +0800" channel="Ch 5">
+    <title lang="en">Leo the Wildlife Ranger: S2 Spinoff</title>
+    <desc lang="en">.</desc>
+  </programme>
+  <programme start="20220306091500 +0800" stop="20220306093000 +0800" channel="Ch 5">
+    <title lang="en">Leo the Wildlife Ranger: S2 Spinoff</title>
+    <desc lang="en">.</desc>
+  </programme>
+  <programme start="20220306093000 +0800" stop="20220306100000 +0800" channel="Ch 5">
+    <title lang="en">The Deep S3</title>
+    <desc lang="en">The series follows the Nekton family, a family of adventurous underwater explorers who live aboard a state-of-the-art submarine, the Aronnax, and explore unknown areas of the Earth's oceans to unravel the mysteries of the depths.</desc>
+  </programme>
+  <programme start="20220306100000 +0800" stop="20220306103000 +0800" channel="Ch 5">
+    <title lang="en">Power Players</title>
+    <desc lang="en">Action Axel has a toothache but balks at seeking medical help. Convinced that Axel is going to have a king's crown and not a dental one, Princess Sugarsalt attacks our friends to seize it!</desc>
+  </programme>
+  <programme start="20220306103000 +0800" stop="20220306104500 +0800" channel="Ch 5">
+    <title lang="en">Puberteens</title>
+    <desc lang="en">All Hiro wants is to get through his first day of school unnoticed, but he unwittingly becomes the target of the school bully, Winston. With the help of new friends Celeste and Mike, Hiro proves that he's never too small to make a difference.</desc>
+  </programme>
+  <programme start="20220306104500 +0800" stop="20220306110000 +0800" channel="Ch 5">
+    <title lang="en">Puberteens</title>
+    <desc lang="en">Holly gets her first period the day before the Springwood Talentime Jamboree. With the show's success hinging on Holly's performance, Celeste must choose between the show and Holly's well-being.</desc>
+  </programme>
+  <programme start="20220306110000 +0800" stop="20220306113000 +0800" channel="Ch 5">
+    <title lang="en">Rise Of The Teenage Mutant Ninja Turtles S1</title>
+    <desc lang="en">Four mutant turtle brothers go on adventures where they end up tapping into mystic ninja powers.</desc>
+  </programme>
+  <programme start="20220306113000 +0800" stop="20220306120000 +0800" channel="Ch 5">
+    <title lang="en">Beyblade Burst S1</title>
+    <desc lang="en">Valt and Naoki go head-to-head in a battle that pits scientific analysis against sheer determination. Then, the Beigoma Academy Bey Club encounters Jin Aizawa, Shu's eerie next opponent. Could he pose a serious threat to Shu's championship ambitions?</desc>
+  </programme>
+  <programme start="20220306120000 +0800" stop="20220306130000 +0800" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA S6</title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13. The sixth season returns with chefs Gordon Ramsay and Christina Tosi acting as the judges, along Joe Bastianich as the third judge.</desc>
+  </programme>
+  <programme start="20220306130000 +0800" stop="20220306143000 +0800" channel="Ch 5">
+    <title lang="en">Chingay50</title>
+    <desc lang="en">Chingay turns 50! Join us for an experience never before! Presenting multicultural performances by community talents with innovative digital projection and lighting effects. Celebrate this uniquely Singaporean tradition as we ignite our dreams together!</desc>
+  </programme>
+  <programme start="20220306143000 +0800" stop="20220306153000 +0800" channel="Ch 5">
+    <title lang="en">HSBC Women's World Championships 2022</title>
+    <desc lang="en">Boasting one of the strongest fields in women's golf outside of the five Major Championships, the HSBC Women's World Championship will see the top LPGA players battle it out on The Tanjong at Sentosa Golf Club. Taking place from the 3rd - 6th March 2022, the four-day extravaganza will be a platform to celebrate the sport of golf, the brilliant women competing in it and inspirational women from all facets of life throughout the World.</desc>
+  </programme>
+  <programme start="20220306153000 +0800" stop="20220306170000 +0800" channel="Ch 5">
+    <title lang="en">Tom And Jerry: Spy Quest</title>
+    <desc lang="en">When Jonny Quest, Hadji and Bandit arrive to enlist the help of Tom and Jerry in protecting Dr Quest's latest invention from falling into the wrong hands, the dynamic duo must step up to save the day.</desc>
+  </programme>
+  <programme start="20220306170000 +0800" stop="20220306173000 +0800" channel="Ch 5">
+    <title lang="en">TOBOT: Galaxy Detectives</title>
+    <desc lang="en">Long time ago in the universe, there were 6 Galaxy Weapons that could rule the universe. The cosmic villain Demons is trying to rule the universe with the 6 Galaxy Weapons. One day, the space ship carrying the galaxy weapons is chased by Demons' minion and decides to escape to earth!</desc>
+  </programme>
+  <programme start="20220306173000 +0800" stop="20220306180000 +0800" channel="Ch 5">
+    <title lang="en">100 Wishes S2</title>
+    <desc lang="en">A fresh twist on the Genie lore, 100 Wishes is a heartwarming comedy series in the style of LILO &amp; STITCH and MONSTERS INC.</desc>
+  </programme>
+  <programme start="20220306180000 +0800" stop="20220306181500 +0800" channel="Ch 5">
+    <title lang="en">Just for Laughs Gags S21</title>
+    <desc lang="en">Just For Laughs will tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
+  </programme>
+  <programme start="20220306181500 +0800" stop="20220306210000 +0800" channel="Ch 5">
+    <title lang="en">The Amazing Spider-Man</title>
+    <desc lang="en">After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.</desc>
+  </programme>
+  <programme start="20220306210000 +0800" stop="20220306213000 +0800" channel="Ch 5">
+    <title lang="en">News Tonight</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20220306213000 +0800" stop="20220306223000 +0800" channel="Ch 5">
+    <title lang="en">Secret Safari</title>
+    <desc lang="en">A new kind of natural history series. With 360 degree access, this show follows the rangers, guides and vets at Ol Pejeta, Kenya - the premier safari park in Africa. This is what it really takes to keep the wild ALIVE.</desc>
+  </programme>
+  <programme start="20220306223000 +0800" stop="20220306223000 +0800" channel="Ch 5">
+    <title lang="en">Back To The Future</title>
+    <desc lang="en">Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.</desc>
+  </programme>
+  <programme start="20220306223000 +0800" stop="20220307010000 +0800" channel="Ch 5">
+    <title lang="en">Back To The Future</title>
+    <desc lang="en">Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.</desc>
+  </programme>
+  <programme start="20220307010000 +0800" stop="20220307020000 +0800" channel="Ch 5">
+    <title lang="en">The Masked Singer S3</title>
+    <desc lang="en">The Masked Singer is a singing competition guessing game based on the Korean format King of Mask Singer. The performers are celebrities wearing elaborate head to toe costumes to conceal their identities from the host, panelists, audience, and other contestants.</desc>
+  </programme>
+  <programme start="20220307020000 +0800" stop="20220307022000 +0800" channel="Ch 5">
+    <title lang="en">Just for Laughs Gags S20</title>
+    <desc lang="en">Just For Laughs will tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
+  </programme>
+  <programme start="20220307022000 +0800" stop="20220307031000 +0800" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA S6</title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13. The sixth season returns with chefs Gordon Ramsay and Christina Tosi acting as the judges, along Joe Bastianich as the third judge.</desc>
+  </programme>
+  <programme start="20220307031000 +0800" stop="20220307033500 +0800" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune S38</title>
+    <desc lang="en">(Encore) This gameshow features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.</desc>
+  </programme>
+  <programme start="20220307033500 +0800" stop="20220307040000 +0800" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune S38</title>
+    <desc lang="en">(Encore) This gameshow features a competition in which contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.</desc>
+  </programme>
+  <programme start="20220307040000 +0800" stop="20220307050000 +0800" channel="Ch 5">
+    <title lang="en">Deal Or No Deal USA S5</title>
+    <desc lang="en">One of America's most popular and beloved game shows, "Deal or No Deal", is back with it iconic host Howie Mandel.</desc>
+  </programme>
+  <programme start="20220307050000 +0800" stop="20220307060000 +0800" channel="Ch 5">
+    <title lang="en">72 Dangerous Animals Australia</title>
+    <desc lang="en">Australia is full of dangerous animals but which creature is our country's deadliest? From the Freshwater Crocodile to the Cane Toad, were counting down to the most dangerous Aussie animal.</desc>
+  </programme>
+  <programme start="20220307060000 +0800" stop="20220307063000 +0800" channel="Ch 5">
+    <title lang="en">Filly Funtasia</title>
+    <desc lang="en">Our heroine Rose and her Filly friends embark on fun exciting adventures as they start their school life at the Royal Magic Academy of Funtasia. They soon realise that their new magic skills will be of great use, as peril is near. Ages ago, during The Dark Battle, the evil Wranglum was absorbed by the Dark Mirror into a hidden Crystal Prison, which can only be unlocked by the Dark Crystal. Rose unknowingly holds the key and does not know how much danger she is in.</desc>
+  </programme>
+  <programme start="20220307063000 +0800" stop="20220307070000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220307070000 +0800" stop="20220307073000 +0800" channel="Ch 5">
+    <title lang="en">Blaze And The Monster Machines S3</title>
+    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and maths.</desc>
+  </programme>
+  <programme start="20220307073000 +0800" stop="20220307080000 +0800" channel="Ch 5">
+    <title lang="en">Kingdom Force</title>
+    <desc lang="en">Kingdom Force follows the thrilling, fast-paced exploits of five mighty animal heroes as they serve and protect the citizens of five unique animal kingdoms. Led by the fearless wolf, Luka, this team has a carnivorous appetite for danger and thrills and there's no operation they can't pull off with the help of their giant rescue robot, Alpha-Mech. Whatever the problem, big or small, these heroes come together to work as one - Kingdom Force Unite!</desc>
+  </programme>
+  <programme start="20220307080000 +0800" stop="20220307083000 +0800" channel="Ch 5">
+    <title lang="en">Counting With Paula S5</title>
+    <desc lang="en">There's a miscommunication between Uncle Sphinx, Mr. Merchant and Aamil that causes some unhappiness. The children have to figure out what happened and help straighten things out with each person. Some crabs pay Redbeard to watch a spectacular circus show. However, Maurice is not the greatest showman. The crabs are angry! Will the children be able to help save the show?</desc>
+  </programme>
+  <programme start="20220307083000 +0800" stop="20220307090000 +0800" channel="Ch 5">
+    <title lang="en">True And The Rainbow Kingdom</title>
+    <desc lang="en">The Day Queen and the Night Queen accidentally stick the sun and moon together - and they love it! True must persuade the royal siblings to unstick the sun and moon in order to restore the Kingdom.</desc>
+  </programme>
+  <programme start="20220307090000 +0800" stop="20220307093000 +0800" channel="Ch 5">
+    <title lang="en">Sesame Street S50</title>
+    <desc lang="en">Celebrity guests such as Misty Copeland, Terri, Bindi and Robert Irwin, Chrissy Teigen and Josh Gad appear in the latest season of Sesame Street.</desc>
+  </programme>
+  <programme start="20220307093000 +0800" stop="20220307100000 +0800" channel="Ch 5">
+    <title lang="en">Molang S4</title>
+    <desc lang="en">Molang and Piu Piu are friends who always have a great time together whatever they do.</desc>
+  </programme>
+  <programme start="20220307100000 +0800" stop="20220307101500 +0800" channel="Ch 5">
+    <title lang="en">Lil Wild S2</title>
+    <desc lang="en">Change comes to Lil Wild as Susie is promoted to Ranger and Meep gets a glimpse into family life, which brings back memories of his long-lost dad. Meanwhile a dastardly poacher pursues a mysterious beast through the city.</desc>
+  </programme>
+  <programme start="20220307101500 +0800" stop="20220307103000 +0800" channel="Ch 5">
+    <title lang="en">Lil Wild S2</title>
+    <desc lang="en">Change comes to Lil Wild as Susie is promoted to Ranger and Meep gets a glimpse into family life, which brings back memories of his long-lost dad. Meanwhile a dastardly poacher pursues a mysterious beast through the city.</desc>
+  </programme>
+  <programme start="20220307103000 +0800" stop="20220307110000 +0800" channel="Ch 5">
+    <title lang="en">Nella the Princess Knight S2</title>
+    <desc lang="en">Follow the adventures of Nella, a brave princess who turns into a princess knight.</desc>
+  </programme>
+  <programme start="20220307110000 +0800" stop="20220307113000 +0800" channel="Ch 5">
+    <title lang="en">Blaze And The Monster Machines S3</title>
+    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and maths.</desc>
+  </programme>
+  <programme start="20220307113000 +0800" stop="20220307120000 +0800" channel="Ch 5">
+    <title lang="en">Kingdom Force</title>
+    <desc lang="en">Kingdom Force follows the thrilling, fast-paced exploits of five mighty animal heroes as they serve and protect the citizens of five unique animal kingdoms. Led by the fearless wolf, Luka, this team has a carnivorous appetite for danger and thrills and there's no operation they can't pull off with the help of their giant rescue robot, Alpha-Mech. Whatever the problem, big or small, these heroes come together to work as one - Kingdom Force Unite!</desc>
+  </programme>
+  <programme start="20220307120000 +0800" stop="20220307123000 +0800" channel="Ch 5">
+    <title lang="en">Luke Nguyen's Food Trail</title>
+    <desc lang="en">Luke completes his visit to Brisbane and heads to Saigon where he spends time with his family. He visits his Mum and Aunty 8 in Hoc Mon before cooking a traditional feast to present as an offering to his grandfather?s grave, a significant day with his immediate family.</desc>
+  </programme>
+  <programme start="20220307123000 +0800" stop="20220307130000 +0800" channel="Ch 5">
+    <title lang="en">Peter Kuruvita's Coastal Kitchen S1</title>
+    <desc lang="en">After bidding farewell to city life and moving to the Sunshine coast with his family, Chef and Restaurateur Peter Kuruvita is on a journey to uncover the region's best food producers and create seasonal dishes in his coastal kitchen.</desc>
+  </programme>
+  <programme start="20220307130000 +0800" stop="20220307133000 +0800" channel="Ch 5">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">Films and Stars cover the hottest events from the big screen every week.</desc>
+  </programme>
+  <programme start="20220307133000 +0800" stop="20220307140000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Matthew discovers that Derek has given away a crucial piece of evidence to Jessica. Louis encourages Zara to be a writer after taking a peek into her journal. Syirah realises she has to re-examine her work and life priorities after being diagnosed with perimenopause.</desc>
+  </programme>
+  <programme start="20220307140000 +0800" stop="20220307143000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Adina begins to suspect that Zaryn is tampering with her medication. Shen Yang takes a break from his work so that Ella can make strides in hers. Derek considers telling Ah Yoke about his deal with Jessica.</desc>
+  </programme>
+  <programme start="20220307143000 +0800" stop="20220307150000 +0800" channel="Ch 5">
+    <title lang="en">On The Red Dot</title>
+    <desc lang="en">.</desc>
+  </programme>
+  <programme start="20220307150000 +0800" stop="20220307153000 +0800" channel="Ch 5">
+    <title lang="en">Best Furry Friends</title>
+    <desc lang="en">The Best Furry Friends crew are made up of six girlfriends--Angelina, Cassandra, Kristin, Phoebe, Stephanie, Zoe--and their six furry fashionista side-kicks---Stardust (a pegacorn), Dash (a ginger cat), Cuddles (a white rabbit), DeeDee (a dragon), Sasha (a husky), and Zara (a sloth). Each BFF has their own personality and passions from science to singing to sports. When they are together with their #BFFSquad, no challenge is too great!</desc>
+  </programme>
+  <programme start="20220307153000 +0800" stop="20220307160000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220307160000 +0800" stop="20220307163000 +0800" channel="Ch 5">
+    <title lang="en">Danger Mouse S1</title>
+    <desc lang="en">The continuing adventures of secret agent Danger Mouse and his sidekick Penfold.</desc>
+  </programme>
+  <programme start="20220307163000 +0800" stop="20220307170000 +0800" channel="Ch 5">
+    <title lang="en">Power Rangers Dino Fury S28</title>
+    <desc lang="en">With the prehistoric force of the dinosaurs, a new crew of Power Rangers must deal with a menacing army of alien creatures attacking Earth.</desc>
+  </programme>
+  <programme start="20220307170000 +0800" stop="20220307173000 +0800" channel="Ch 5">
+    <title lang="en">Transformers Cyberverse S4</title>
+    <desc lang="en">After Windblade's revival, Bumblebee meets new Dinobots and Megatron X Returns.</desc>
+  </programme>
+  <programme start="20220307173000 +0800" stop="20220307180000 +0800" channel="Ch 5">
+    <title lang="en">Zero Hero Sr 2</title>
+    <desc lang="en">Zero Hero revolves around a superhero family who have mysteriously lost all their super powers and now struggle to be like the average human being.</desc>
+  </programme>
+  <programme start="20220307180000 +0800" stop="20220307190000 +0800" channel="Ch 5">
+    <title lang="en">HSBC Women's World Championships 2022</title>
+    <desc lang="en">Boasting one of the strongest fields in women's golf outside of the five Major Championships, the HSBC Women's World Championship will see the top LPGA players battle it out on The Tanjong at Sentosa Golf Club.Taking place from the 3rd - 6th March 2022, the four-day extravaganza will be a platform to celebrate the sport of golf, the brilliant women competing in it and inspirational women from all facets of life throughout the World.</desc>
+  </programme>
+  <programme start="20220307190000 +0800" stop="20220307193000 +0800" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune S39</title>
+    <desc lang="en">Hosted by Pat Sajak, this game show features 3 contestants who try to solve a puzzle by spinning the wheel and guessing letters in a word or phrase.</desc>
+  </programme>
+  <programme start="20220307193000 +0800" stop="20220307203000 +0800" channel="Ch 5">
+    <title lang="en">Beat the Chasers S2</title>
+    <desc lang="en">Huge global hit game show The Chase is the ultimate heart-racing, high-pressure quiz.</desc>
+  </programme>
+  <programme start="20220307203000 +0800" stop="20220307210000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Zaryn finally comes clean to Rosnani about why he has been drugging Adina. Ah Yoke and Ella work together to find out what happened to Emily. May Wan is worried that Ah Hock is following in Steven's footsteps.</desc>
+  </programme>
+  <programme start="20220307210000 +0800" stop="20220307214500 +0800" channel="Ch 5">
+    <title lang="en">News Tonight</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20220307214500 +0800" stop="20220307224000 +0800" channel="Ch 5">
+    <title lang="en">Sense of Home</title>
+    <desc lang="en">Drama anthology series whereby each episode is connected by the central theme of home and what it means to each character in the series.</desc>
+  </programme>
+  <programme start="20220307224000 +0800" stop="20220307233000 +0800" channel="Ch 5">
+    <title lang="en">New Amsterdam S1</title>
+    <desc lang="en">Max goes head-to-head with hospital administration when he comes up with a new plan for patients without insurance. Dr. Frome struggles with an accusation brought against him. Dr. Sharpe navigates her role as deputy medical director.</desc>
+  </programme>
+  <programme start="20220307233000 +0800" stop="20220308000000 +0800" channel="Ch 5">
+    <title lang="en">Luke Nguyen's Vietnam</title>
+    <desc lang="en">In this episode of his journey, Luke continues in Hoi An where vibrant markets are bustling and magnificent produce is on offer for him to cook with.</desc>
+  </programme>
+  <programme start="20220308000000 +0800" stop="20220308003000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Zaryn finally comes clean to Rosnani about why he has been drugging Adina. Ah Yoke and Ella work together to find out what happened to Emily. May Wan is worried that Ah Hock is following in Steven's footsteps.</desc>
+  </programme>
+  <programme start="20220308003000 +0800" stop="20220308013000 +0800" channel="Ch 5">
+    <title lang="en">The Resident S2</title>
+    <desc lang="en">Conrad, Kit, Mina and the Raptor work to save the life of a med student in need of a triple-organ transplant, drawing Bell back to the OR for one of Chastain's riskiest surgeries yet.</desc>
+  </programme>
+  <programme start="20220308013000 +0800" stop="20220308023000 +0800" channel="Ch 5">
+    <title lang="en">Seven Worlds One Planet</title>
+    <desc lang="en">From the colourful paradise of South America to the scorching heat of Africa, Seven Worlds: One Planet showcases the true character of each continent in turn and reveals just how it has shaped all life there. Be surprised by unexpected stories. Marvel at iconic landscapes. And be awestruck by spectacular wildlife.</desc>
+  </programme>
+  <programme start="20220308023000 +0800" stop="20220308033000 +0800" channel="Ch 5">
+    <title lang="en">Mata Mata S3</title>
+    <desc lang="en">Patricia and Joyce become better friends after Patricia helps Joyce to save Emily from a spot of trouble. Tommy reconnects with Patricia and he convinces her that he's turned his life around. The team investigates an upsetting case - the disappearance and eventual murder of three young children.</desc>
+  </programme>
+  <programme start="20220308033000 +0800" stop="20220308040000 +0800" channel="Ch 5">
+    <title lang="en">Euromaxx</title>
+    <desc lang="en">Euromaxx is a lifestyle magazine show which features images and stories that reflect the rich diversity of cultural life in Europe. It also provides an insight into Europe and the people who live there.</desc>
+  </programme>
+  <programme start="20220308040000 +0800" stop="20220308043000 +0800" channel="Ch 5">
+    <title lang="en">Luke Nguyen's Food Trail</title>
+    <desc lang="en">Luke completes his visit to Brisbane and heads to Saigon where he spends time with his family. He visits his Mum and Aunty 8 in Hoc Mon before cooking a traditional feast to present as an offering to his grandfather?s grave, a significant day with his immediate family.</desc>
+  </programme>
+  <programme start="20220308043000 +0800" stop="20220308050000 +0800" channel="Ch 5">
+    <title lang="en">Peter Kuruvita's Coastal Kitchen S1</title>
+    <desc lang="en">After bidding farewell to city life and moving to the Sunshine coast with his family, Chef and Restaurateur Peter Kuruvita is on a journey to uncover the region's best food producers and create seasonal dishes in his coastal kitchen.</desc>
+  </programme>
+  <programme start="20220308050000 +0800" stop="20220308053000 +0800" channel="Ch 5">
+    <title lang="en">Just for Laughs Gags S20</title>
+    <desc lang="en">Just For Laughs will tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
+  </programme>
+  <programme start="20220308053000 +0800" stop="20220308060000 +0800" channel="Ch 5">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">Films and Stars cover the hottest events from the big screen every week.</desc>
+  </programme>
+  <programme start="20220308060000 +0800" stop="20220308063000 +0800" channel="Ch 5">
+    <title lang="en">Filly Funtasia</title>
+    <desc lang="en">Our heroine Rose and her Filly friends embark on fun exciting adventures as they start their school life at the Royal Magic Academy of Funtasia. They soon realise that their new magic skills will be of great use, as peril is near. Ages ago, during The Dark Battle, the evil Wranglum was absorbed by the Dark Mirror into a hidden Crystal Prison, which can only be unlocked by the Dark Crystal. Rose unknowingly holds the key and does not know how much danger she is in.</desc>
+  </programme>
+  <programme start="20220308063000 +0800" stop="20220308070000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220308070000 +0800" stop="20220308073000 +0800" channel="Ch 5">
+    <title lang="en">Blaze And The Monster Machines S3</title>
+    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and maths.</desc>
+  </programme>
+  <programme start="20220308073000 +0800" stop="20220308080000 +0800" channel="Ch 5">
+    <title lang="en">Kingdom Force</title>
+    <desc lang="en">Kingdom Force follows the thrilling, fast-paced exploits of five mighty animal heroes as they serve and protect the citizens of five unique animal kingdoms. Led by the fearless wolf, Luka, this team has a carnivorous appetite for danger and thrills and there's no operation they can't pull off with the help of their giant rescue robot, Alpha-Mech. Whatever the problem, big or small, these heroes come together to work as one - Kingdom Force Unite!</desc>
+  </programme>
+  <programme start="20220308080000 +0800" stop="20220308083000 +0800" channel="Ch 5">
+    <title lang="en">Counting With Paula S5</title>
+    <desc lang="en">Prince Aamil has a new pet bird, but there's something wrong with it. It can't fly! While trying various ways to help the bird fly, the children make a surprising discovery about it. Redbeard advertises for new pirate assistants with the promise of a cool motorcycle for the best assistant. Tim and Calc want it badly and compete to please Redbeard. Will this be worth sacrificing their friendship in the process?</desc>
+  </programme>
+  <programme start="20220308083000 +0800" stop="20220308090000 +0800" channel="Ch 5">
+    <title lang="en">True And The Rainbow Kingdom</title>
+    <desc lang="en">A strange crystal causes wild switches to happen across the Kingdom, including switching the bodies of True and Bartleby.</desc>
+  </programme>
+  <programme start="20220308090000 +0800" stop="20220308093000 +0800" channel="Ch 5">
+    <title lang="en">Sesame Street S50</title>
+    <desc lang="en">Celebrity guests such as Misty Copeland, Terri, Bindi and Robert Irwin, Chrissy Teigen and Josh Gad appear in the latest season of Sesame Street.</desc>
+  </programme>
+  <programme start="20220308093000 +0800" stop="20220308100000 +0800" channel="Ch 5">
+    <title lang="en">Molang S4</title>
+    <desc lang="en">Molang and Piu Piu are friends who always have a great time together whatever they do.</desc>
+  </programme>
+  <programme start="20220308100000 +0800" stop="20220308101500 +0800" channel="Ch 5">
+    <title lang="en">Lil Wild S2</title>
+    <desc lang="en">When word gets around that a wild animal has broken into the wildlife park, chaos rules as groups of animals take sides and turn against each other. Rara and the gang try to hunt down the monster in their midst. Relegated to playing lookout, Meep decides to search for the animal on his own - but he's not the only one. A poacher is also hot on the animal's trail! Can the Lil Wild team catch the monster before the poacher does?</desc>
+  </programme>
+  <programme start="20220308101500 +0800" stop="20220308103000 +0800" channel="Ch 5">
+    <title lang="en">Lil Wild S2</title>
+    <desc lang="en">When word gets around that a wild animal has broken into the wildlife park, chaos rules as groups of animals take sides and turn against each other. Rara and the gang try to hunt down the monster in their midst. Relegated to playing lookout, Meep decides to search for the animal on his own - but he's not the only one. A poacher is also hot on the animal's trail! Can the Lil Wild team catch the monster before the poacher does?</desc>
+  </programme>
+  <programme start="20220308103000 +0800" stop="20220308110000 +0800" channel="Ch 5">
+    <title lang="en">Peppa Pig S8</title>
+    <desc lang="en">Join Peppa Pig and her family for more adorable adventures!</desc>
+  </programme>
+  <programme start="20220308110000 +0800" stop="20220308113000 +0800" channel="Ch 5">
+    <title lang="en">Blaze And The Monster Machines S3</title>
+    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and maths.</desc>
+  </programme>
+  <programme start="20220308113000 +0800" stop="20220308120000 +0800" channel="Ch 5">
+    <title lang="en">Kingdom Force</title>
+    <desc lang="en">Kingdom Force follows the thrilling, fast-paced exploits of five mighty animal heroes as they serve and protect the citizens of five unique animal kingdoms. Led by the fearless wolf, Luka, this team has a carnivorous appetite for danger and thrills and there's no operation they can't pull off with the help of their giant rescue robot, Alpha-Mech. Whatever the problem, big or small, these heroes come together to work as one - Kingdom Force Unite!</desc>
+  </programme>
+  <programme start="20220308120000 +0800" stop="20220308123000 +0800" channel="Ch 5">
+    <title lang="en">Luke Nguyen's Food Trail</title>
+    <desc lang="en">When he's not busy running his restaurants and has a day off, Luke likes to explore places away from the city. Luke explores Vung Tau, a coastal town finding different delicacies on each corner. Luke walks through the market ordering the mornings seafood to cook dishes for locals. Back in Saigon, Luke meets an old apprentice who?s adding a Vietnamese twist to Italian cuisine before embarking in Saigon?s night dinner scene.</desc>
+  </programme>
+  <programme start="20220308123000 +0800" stop="20220308130000 +0800" channel="Ch 5">
+    <title lang="en">Peter Kuruvita's Coastal Kitchen S1</title>
+    <desc lang="en">After bidding farewell to city life and moving to the Sunshine coast with his family, Chef and Restaurateur Peter Kuruvita is on a journey to uncover the region's best food producers and create seasonal dishes in his coastal kitchen.</desc>
+  </programme>
+  <programme start="20220308130000 +0800" stop="20220308133000 +0800" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune S39</title>
+    <desc lang="en">Hosted by Pat Sajak, this game show features 3 contestants who try to solve a puzzle by spinning the wheel and guessing letters in a word or phrase.</desc>
+  </programme>
+  <programme start="20220308133000 +0800" stop="20220308140000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">James and Ananya wonder what Charles is up to when he drops the investigation into the Vietnam project. Ah Yoke thinks there is something off with Emily, while a paranoid Adina makes a big scene at Fresh Start Collab.</desc>
+  </programme>
+  <programme start="20220308140000 +0800" stop="20220308143000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Zaryn finally comes clean to Rosnani about why he has been drugging Adina. Ah Yoke and Ella work together to find out what happened to Emily. May Wan is worried that Ah Hock is following in Steven's footsteps.</desc>
+  </programme>
+  <programme start="20220308143000 +0800" stop="20220308150000 +0800" channel="Ch 5">
+    <title lang="en">The Strangest Weather On Earth S3</title>
+    <desc lang="en">Season 3 of the series explores the wild and wonderful world of the weirdest weather on earth with each episode featuring spectacular visuals, fascinating demonstrations and explanations as to what causes all of these strange occurrences.</desc>
+  </programme>
+  <programme start="20220308150000 +0800" stop="20220308153000 +0800" channel="Ch 5">
+    <title lang="en">Best Furry Friends</title>
+    <desc lang="en">The Best Furry Friends crew are made up of six girlfriends--Angelina, Cassandra, Kristin, Phoebe, Stephanie, Zoe--and their six furry fashionista side-kicks---Stardust (a pegacorn), Dash (a ginger cat), Cuddles (a white rabbit), DeeDee (a dragon), Sasha (a husky), and Zara (a sloth). Each BFF has their own personality and passions from science to singing to sports. When they are together with their #BFFSquad, no challenge is too great!</desc>
+  </programme>
+  <programme start="20220308153000 +0800" stop="20220308160000 +0800" channel="Ch 5">
+    <title lang="en">Mondo Yan</title>
+    <desc lang="en">The world has fallen into chaos and is now a stinky land of toxic cesspools and monstrous mutants, called the Chou World, run by the nasty villain Negu. High above, on top of ancient abandoned skyscrapers, a beautiful new yet fragile and harmonious world has risen: the Yan World. Protected by three eccentric Elders, three young apprentice misfits have been chosen to learn their secrets and protect this peaceful and idyllic place!</desc>
+  </programme>
+  <programme start="20220308160000 +0800" stop="20220308163000 +0800" channel="Ch 5">
+    <title lang="en">Danger Mouse S1</title>
+    <desc lang="en">The continuing adventures of secret agent Danger Mouse and his sidekick Penfold.</desc>
+  </programme>
+  <programme start="20220308163000 +0800" stop="20220308170000 +0800" channel="Ch 5">
+    <title lang="en">Power Rangers Dino Fury S28</title>
+    <desc lang="en">With the prehistoric force of the dinosaurs, a new crew of Power Rangers must deal with a menacing army of alien creatures attacking Earth.</desc>
+  </programme>
+  <programme start="20220308170000 +0800" stop="20220308173000 +0800" channel="Ch 5">
+    <title lang="en">Transformers Cyberverse S4</title>
+    <desc lang="en">After Windblade's revival, Bumblebee meets new Dinobots and Megatron X Returns.</desc>
+  </programme>
+  <programme start="20220308173000 +0800" stop="20220308180000 +0800" channel="Ch 5">
+    <title lang="en">My Classmate Dad</title>
+    <desc lang="en">.</desc>
+  </programme>
+  <programme start="20220308180000 +0800" stop="20220308190000 +0800" channel="Ch 5">
+    <title lang="en">Masterchef Junior USA S6</title>
+    <desc lang="en">MasterChef Junior is an American cooking competition involving children from the ages of 8 to 13. The sixth season returns with chefs Gordon Ramsay and Christina Tosi acting as the judges, along Joe Bastianich as the third judge.</desc>
+  </programme>
+  <programme start="20220308190000 +0800" stop="20220308193000 +0800" channel="Ch 5">
+    <title lang="en">Wheel Of Fortune S39</title>
+    <desc lang="en">Hosted by Pat Sajak, this game show features 3 contestants who try to solve a puzzle by spinning the wheel and guessing letters in a word or phrase.</desc>
+  </programme>
+  <programme start="20220308193000 +0800" stop="20220308203000 +0800" channel="Ch 5">
+    <title lang="en">MasterChef Singapore S2</title>
+    <desc lang="en">The contestants face-off in their first team challenge at Clifford Pier, one of Singapore's most sumptuous event venues. Season 1 finalists Gen and Zander make a special appearance as team mentors, offering advice and keeping the teams on track as they would need to impress the venue's patrons. The losing team will then have to face off against each other in an elimination challenge.</desc>
+  </programme>
+  <programme start="20220308203000 +0800" stop="20220308210000 +0800" channel="Ch 5">
+    <title lang="en">Kin</title>
+    <desc lang="en">Eunice is pleasantly surprised when James asks her to come along for a family holiday with Ananya. Matthew is torn between being a supportive friend to Fiona and using her to get information about Alan. Charles discovers that Eunice and Ananya have been in cahoots hiding the secret of Maxine's paternity from James.</desc>
+  </programme>
+  <programme start="20220308210000 +0800" stop="20220308214500 +0800" channel="Ch 5">
+    <title lang="en">News Tonight</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20220308214500 +0800" stop="20220308221300 +0800" channel="Ch 5">
+    <title lang="en">Home Is Where The Heart Is</title>
+    <desc lang="en">Mr Lim, who runs an NGO, inherits a good class bungalow from Madam Tan an old woman who has just passed. Jane and Arif work to defend him against the Tan family who dispute the validity of will. David, Jane's father continues to pressure her to accept the job at Lee &amp; Rashid. Mr Lim presents Jane and Arif with an old photo of Andrew and asks that they find him.</desc>
+  </programme>
+  <programme start="20220308221300 +0800" stop="20220308224000 +0800" channel="Ch 5">
+    <title lang="en">Home Is Where The Heart Is</title>
+    <desc lang="en">Through his social worker contacts, Arif tries to find out what has become of Andrew. At the columbarium, paying their respects to Madam Tan, Jane and Mr Lim see a mysterious woman leaving an offering. While Jane investigates further, the Tan family accuse her of misconduct. Jane is suspended from her job, putting the offer from Lee &amp; Rashid in jeopardy.</desc>
+  </programme>
+  <programme start="20220308224000 +0800" stop="20220308233000 +0800" channel="Ch 5">
+    <title lang="en">New Amsterdam S1</title>
+    <desc lang="en">After becoming the medical director of one of the United States's oldest public hospitals, Dr Max Godwin sets out to reform the institution's neglected and outdated facilities to treat the patients.</desc>
+  </programme>
+</tv>
